@@ -1,12 +1,4 @@
-// const URL = "https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/eur/jpy.json";
 
-// async function malik() {
-    //     let response = await fetch(URL);
-    //     let data = await response.json();
-    //     console.log(data);
-    // };
-    
-    // malik()
     const dropDowns = document.querySelectorAll('.dropdown select');
     const flags = document.querySelectorAll('.select-container img');
     const msg = document.querySelector('#msg');
